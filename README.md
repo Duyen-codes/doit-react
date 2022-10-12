@@ -1,5 +1,9 @@
 # Todo app
 
+A CRUD app with create, read, update and delete operation
+
+[Live Demo](https://doit-react.vercel.app)
+
 ## App's user stories
 
 As a user, I can
